@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+geopandas==1.0.1
+jenkspy==0.4.1
+scipy==1.13.1
+scikit_posthocs==0.11.2
+matplotlib==3.9.2
